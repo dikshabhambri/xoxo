@@ -1,6 +1,6 @@
 html, body {
-  margin: 0;
-  padding: 0;
+  margin: 0.5;
+  padding: 0.5;
   width: 100%;
   height: 100%;
   overflow: hidden;
@@ -32,10 +32,10 @@ body {
 }
 
 .r {
-  border-right: 4pt solid black;
+  border-right: 3pt solid black;
 }
 .b {
-  border-bottom: 4pt solid black;
+  border-bottom: 3pt solid black;
 }
 
 .slowlyAppear {
